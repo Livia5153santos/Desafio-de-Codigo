@@ -1,7 +1,5 @@
-//Criando um código para armazenar o máximo de informações possíveis dos boncos do Genshin Impact e ao final,
-//para cada um, exibir uma mensagem de saída escrita com o nome do boneco concatenando com "Cadastrado com sucesso"
-
 // Declarando Variáveis
+
 let boneco = ["KAEYA", "AMBER","XIANGLING","XINQIU","RAIDEN","AYATO","COLLEI","DEHYA","FREMINET","LYNETTE"]
 let nivel = [" 90"," 40"," 90"," 88"," 80"," 80"," 65"," 30"," 20"," 40"]
 let regiao = [" Mondstadt "," Liyue"," Inazuma"," Sumeru"," Fontaine"]
